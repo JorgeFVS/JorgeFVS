@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning English
 - 🤔 I'm looking for help with starting programming
 - 📫 How to reach me: jorgevieiras12jrgo@gmail.com
-- ⚡ Fun fact: I'm participating in an itau selection process, a tech training program
+
 
 -->
   <div>
