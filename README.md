@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning English
-- 🤔 I'm looking for help with starting programming
+
 
 
 -->
