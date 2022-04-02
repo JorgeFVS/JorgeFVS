@@ -18,7 +18,7 @@
 
   <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=JorgeFVS&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFVS&hide_langs_below=.25&theme=radical">
+  <img height="240em" align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   </p>
  
  
