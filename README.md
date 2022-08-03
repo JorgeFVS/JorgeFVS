@@ -19,6 +19,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=JorgeFVS&show_icons=true&theme=radical&line_height=33">
   <img height="195em" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   </p>
+  
+  ![Snake animation](https://github.com/JorgeFVS/JorgeFVS/blob/output/github-contribution-grid-snake.svg)
  
  
 ## Conhecimento
