@@ -6,7 +6,7 @@
 
 <p>
     Cursei Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL).👨‍🎓<br> 
-    Cursei desenvolvimento web full stack na Labenu <img src="https://emoji.slack-edge.com/TLAVDH7C2/fogo_labenu/1a227ba542691e3d.png" height="25em">  <img src="https://emoji.slack-edge.com/TLAVDH7C2/cora%25C3%25A7%25C3%25A3o_labenu/aac2b7bb5f5a09ba.png" height="25em">
+    Cursei desenvolvimento web full stack na Labenu <img src="https://emoji.slack-edge.com/TLAVDH7C2/fogo_labenu/1a227ba542691e3d.png" height="25em">  
 </p>
 <h3>ℹ️ Informações gerais👨‍💻 </h3>
 <strong>De onde sou</strong>: São Paulo - SP - Brasil 🇧🇷
