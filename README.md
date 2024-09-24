@@ -19,9 +19,7 @@
   <img height="195em" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   </p>
   
-  ![Snake animation](https://github.com/JorgeFVS/JorgeFVS/blob/output/github-contribution-grid-snake.svg)
- 
- 
+  
 ## Conhecimento
 
 <div style="display: inline_block"><br/>
